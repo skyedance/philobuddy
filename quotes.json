@@ -1,117 +1,27 @@
-[{ Philosopher: 'Confucious',
-       Quote: 'I am not bothered by the fact that I am not understood. I am bothered when I do not know others.',
-       Source: 'Analects' },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  {
-    "quote":"this is a test and nothing more",
-    "author": "itsa miih!"
-  },
-  
+[
+  {"Philosopher": "Aristotle", "Quote": "['This is why one cannot love several people', ' love is ideally a sort of excess of friendship, and that can only be felt towards one person', ' therefore great friendship, too, can only be felt towards a few people.']", "Source": "Nicomachean Ethics"},
+  {"Philosopher": "Confucious", "Quote": "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.", "Source": "Analects"},
+  {"Philosopher": "Immanuel Kant", "Quote": "Morality is thus the relation of actions to the autonomy of the will, that is, to a possible giving of universal law through its maxims.", "Source": "Groundwork of the Metaphysics of Morals"},
+  {"Philosopher": "Immanuel Kant", "Quote": "To a high degree we are, through art and science, cultured. We are civilized \u2014 perhaps too much for our own good \u2014 in all sorts of social grace and decorum. But to consider ourselves as having reached morality \u2014 for that, much is lacking.", "Source": "Idea for a Universal History from a Cosmopolitan Point of View"},
+  {"Philosopher": "Immanuel Kant", "Quote": "One cannot suppress a certain indignation when one sees men\u2019s actions on the great world-stage and finds, beside the wisdom that appears here and there among individuals, everything in the large woven together from folly, childish vanity, even from childish malice and destructiveness.", "Source": "Idea for a Universal History from a Cosmopolitan Point of View"},
+  {"Philosopher": "Aristotle", "Quote": "['A likely impossibility is always preferable to an unconvincing possibility. The story should never be made up of improbable incidents', ' there should be nothing of the sort in it.']", "Source": "The Poetics"},
+  {"Philosopher": "Seneca the Younger", "Quote": "The mark of true greatness is not to notice that you have received a blow. So does the huge wild beast calmly turn and gaze at the barking dogs, so does the wave dash in vain against a mighty cliff. The man who does not get angry stands firm, unshaken by injury; he who gets angry is overthrown.", "Source": "De Ira"},
+  {"Philosopher": "Confucious", "Quote": "To study and not think is a waste. To think and not study is dangerous.", "Source": "Analects"},
+  {"Philosopher": "Laozi", "Quote": "The journey of a thousand miles begins with a single step.", "Source": "Tao Te Ching"},
+  {"Philosopher": "Buddha", "Quote": "It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you."},
+  {"Philosopher": "Buddha", "Quote": "If you knew what I know about the power of giving you would not let a single meal pass without sharing it in some way."},
+  {"Philosopher": "Buddha", "Quote": "Learn this from water: loud splashes the brook but the oceans depth are calm."},
+  {"Philosopher": "Buddha", "Quote": "I never see what has been done; I only see what remains to be done."},
+  {"Philosopher": "Buddha", "Quote": "You only lose what you cling to."},
+  {"Philosopher": "Buddha", "Quote": "The past is already gone, the future is not yet here. There’s only one moment for you to live."},
+  {"Philosopher": "Buddha", "Quote": "The trouble is, you think you have time."},
+  {"Philosopher": "Buddha", "Quote": "Your work is to discover your work and then with all your heart to give yourself to it."},
+  {"Philosopher": "Buddha", "Quote": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense."},
+  {"Philosopher": "Buddha", "Quote": "The tongue like a sharp knife… Kills without drawing blood."},
+  {"Philosopher": "Buddha", "Quote": "Teach this triple truth to all: A generous heart, kind speech, and a life of service and compassion are the things which renew humanity."}
+
+
+
+
+
 ]
