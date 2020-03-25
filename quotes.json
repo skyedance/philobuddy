@@ -1,4 +1,6 @@
-[
+[{ Philosopher: 'Confucious',
+       Quote: 'I am not bothered by the fact that I am not understood. I am bothered when I do not know others.',
+       Source: 'Analects' },
   {
     "quote":"this is a test and nothing more",
     "author": "itsa miih!"
